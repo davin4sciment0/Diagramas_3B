@@ -34,6 +34,9 @@ Neste Diagrama, agrupamos todos os elementos necessários do game, onde os eleme
 
 Neste Diagrama os elementros que compoem a cena são desenhados e reproduzidos no Canvas, como nosso personagem, cenário e obstaculos, porem nosso personagem e os obstaculos possuem algumas funções, como o personagem que pode ter uma interação com o jogador se movimentando para cima e para baixo através do eixo Y, já os obstaculos são randomizados e podem se mover através do eixo X
 
+# Diagrama de caso de uso do Canvas:
+![image](https://github.com/davin4sciment0/Diagramas_3B/assets/127548240/66957db5-d12d-407b-b7a7-0a90974e9b79)
+
 ## Autores 
 Davi dos Santos Nacimento e Gabriele Batista Sousa
 
