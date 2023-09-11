@@ -16,9 +16,6 @@ Para criar os diagrama foi preciso:
 
 2. Partimos para a criação dos Diagramas a partir de nossas referências.
 
-## Autores 
-Davi dos Santos Nacimento e Gabriele Batista Sousa
-
 ## Diagramas referentes as cenas no Unity
 
 # Diagrama de Classes:
@@ -36,6 +33,9 @@ Neste Diagrama, agrupamos todos os elementos necessários do game, onde os eleme
 ![image](https://github.com/davin4sciment0/Diagramas_3B/assets/127548240/334dd605-239e-4258-a17e-406e25e386ad)
 
 Neste Diagrama os elementros que compoem a cena são desenhados e reproduzidos no Canvas, como nosso personagem, cenário e obstaculos, porem nosso personagem e os obstaculos possuem algumas funções, como o personagem que pode ter uma interação com o jogador se movimentando para cima e para baixo através do eixo Y, já os obstaculos são randomizados e podem se mover através do eixo X
+
+## Autores 
+Davi dos Santos Nacimento e Gabriele Batista Sousa
 
 
 
